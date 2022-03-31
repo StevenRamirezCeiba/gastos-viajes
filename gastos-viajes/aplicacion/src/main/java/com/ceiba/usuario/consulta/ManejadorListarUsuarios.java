@@ -7,7 +7,8 @@ import com.ceiba.usuario.puerto.dao.DaoUsuario;
 import org.springframework.stereotype.Component;
 
 @Component
-public class ManejadorListarUsuarios {
+public class
+ManejadorListarUsuarios {
 
     private final DaoUsuario daoUsuario;
 
